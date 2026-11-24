@@ -13,5 +13,10 @@ def ppp() -> int:
 
     return -1_000_000
 
+def print_e() -> None:
+    print('EEEE')
+
+
+
 if __name__ == '__main__':
     main()
