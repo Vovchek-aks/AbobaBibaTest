@@ -9,6 +9,7 @@ def goida() -> None:
 
 def ppp() -> int:
     print('''ffrfwefweff''')
+    print('''eeeeeeeeeeeeedd''')
 
     return -1_000_000
 
