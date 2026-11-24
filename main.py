@@ -8,7 +8,7 @@ def goida() -> None:
 
 
 def ppp() -> None:
-    print('''fff''')
+    print('''eeeeeeeeeeeeedd''')
 
 if __name__ == '__main__':
     main()
