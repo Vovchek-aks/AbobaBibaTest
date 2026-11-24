@@ -4,7 +4,7 @@ def main() -> None:
 
 
 def biba() -> None:
-    ...
+    print(123)
 
 
 def goida() -> None:
