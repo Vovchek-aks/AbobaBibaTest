@@ -16,7 +16,9 @@ def ppp() -> int:
 def print_e() -> None:
     print('EEEE')
 
-
+def return_none() -> str:
+    print('vbvbvvb')
+    return "None"
 
 if __name__ == '__main__':
     main()
