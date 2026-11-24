@@ -3,6 +3,10 @@ def main() -> None:
     goida()
 
 
+def biba() -> None:
+    ...
+
+
 def goida() -> None:
     print("Goida!")
 
