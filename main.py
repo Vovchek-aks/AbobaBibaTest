@@ -1,6 +1,7 @@
 def main() -> None:
     print("Hello world!")
     goida()
+    biba()
 
 
 def biba() -> None:
