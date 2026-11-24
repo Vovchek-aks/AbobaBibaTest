@@ -7,8 +7,10 @@ def goida() -> None:
     print("Goida!")
 
 
-def ppp() -> None:
-    print('''fff''')
+def ppp() -> int:
+    print('''ffrfwefweff''')
+
+    return -1_000_000
 
 if __name__ == '__main__':
     main()
